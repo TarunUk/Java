@@ -2,6 +2,12 @@ package Problems_On_Numbers;
 
 import java.util.Scanner;
 
+/*
+ *  If the sum of divisors of a number is greater than the number then it is called abundant number.
+ */
+
+
+
 public class AbundantNumberCheck {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
